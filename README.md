@@ -11,3 +11,5 @@ Here's our todo:
 - [x] Make a couple changes at once
 - [x] Remember to commit
 - [x] Remember to push the changes
+
+- [x] Make things to get rid of things
