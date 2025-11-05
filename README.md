@@ -1,1 +1,7 @@
-This is a git workshop from 5th November
+# Learning Git
+
+Here's our todo:
+
+- [x] Create a new file
+- [ ] Make our first commit
+- [ ] Fix this tpyo
