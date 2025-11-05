@@ -8,3 +8,6 @@ Here's our todo:
 - [x] Make some more commits
 - [x] Make a change post moving it to the repo
 - [x] Practice pushing
+- [x] Make a couple changes at once
+- [x] Remember to commit
+- [x] Remember to push the changes
