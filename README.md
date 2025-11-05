@@ -6,4 +6,4 @@ Here's our todo:
 - [x] Make our first commit
 - [x] Fix this typo
 - [x] Make some more commits
-
+- [x] Make a change post moving it to the repo
