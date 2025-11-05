@@ -7,3 +7,4 @@ Here's our todo:
 - [x] Fix this typo
 - [x] Make some more commits
 - [x] Make a change post moving it to the repo
+- [x] Practice pushing
