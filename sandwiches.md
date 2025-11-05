@@ -2,8 +2,13 @@
 
 ```
 bread
+butter
+ham
+crisps
+cheese
+butter
 bread
 ```
 
 ## To-dos:
-- [ ] add filling
+- [x] add filling
